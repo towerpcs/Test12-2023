@@ -33,6 +33,22 @@ window :
       -
         type : 161
         enabled : false
+  -
+    name : BTN_SansNom2
+    identifier : 0x2583150a020c04eb
+    internal_properties : CQAAAAkAAAAGIKwHq95Rce77aOSxs+65Gh/RD61diYD4U1mYpoujObVclJ9zxT/NkasCuMdv1hul9ypGE8e3FHfLx/xE1YODHJw2yO7DLlsK2xaSAbpG2KTWpCizZ6TsSpEEmzWJs0oj9B9/HdENrwofPc5G/04PQYZ2InrzbXpiPO1hO/YRRjA5AjuXWorNQql+4BQrt/1cKWmJ6tXBqOZGnE76fPUAmo1kZ+4iPyHD9gCMZ30UWjAT9gjmddhP/61PFvRQlZGwTWNwRcifAzR0pMqNwVag7aVU5kQaZk1vCFl92PvFnEcYW2dAJdUTKkjaUX43R51ubEMV7RakrhHf8IaXmQxjzVCDOzagVhVQb/joe67JnhwOVGHDv5jbPp1PnFJxpH/aos3YL+gr4VLwMq9FqtIm8s85tHQCggQDet4UsdhjtA+YIBDcVccSU+qfu+Bqf58aU03grJ8TM1YszGsAY0CU8BD0mxnnU0xh/qH5ylRY+q5S8cOdljj/OCN5HubSqMEuwZEeRfvwwOcgEC0YLH24FNJMfswEadNsQZIJURD9KiF4nys+W4i9mhXBuVNkfa/LPQH4bntbCEmLIYfE026YWymxdjiQwjcNdslCFL1GPSVDRvI9ZHzZplujmnoifMaQn7mp0pEqdGrexo2Q4qcKqn1QA7apixE+KFTVnVKbIWhUqYoH0rvTGWeA58DNMgXB69cnMtYaOzWgdgXuCaAY2h4EavFMrOQlLMjmJ8ZADeur3bz6KTnYA/x2KQcYEfs9VPNNQVtpCIUUYLg2fC8cz8oFvNQjxH5eZPcR9/5qQ+2ZkaTawlK5J/RGXSYvFhWFgcYCsPF/OUTLx2QM10MGezJOEFe5PoALCQU=
+    properties :
+     x : 40
+     y : 92
+     width : 106
+     height : 31
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        type : 161
+        enabled : false
  menu :
   name : _Menu
   identifier : 0x292573e513b5f221
